@@ -32,8 +32,8 @@ PROYECTOS_PYTHON/
 │  └─ readme.md
 │
 └─ proyecto__B/
-   ├─ venv_2/  
-   ├─ img/              ← No se incluye en el repositorio
+   ├─ venv_2/              ← No se incluye en el repositorio
+   ├─ img/              
    ├─ .gitignore
    ├─ proyecto_2.py
    ├─ proyecto_2.1.py
