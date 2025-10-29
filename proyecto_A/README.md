@@ -1,5 +1,5 @@
 ![Texto alternativo](img/Captura_1.png)
-![Texto alternativo](img/Captura_2png)
+![Texto alternativo](img/Captura_2.png)
 ![Texto alternativo](img/Captura_3.png)
 ![Texto alternativo](img/Captura_4.png)
 ![Texto alternativo](img/Captura_5.png)
