@@ -33,7 +33,7 @@ PROYECTOS_PYTHON/
 │
 └─ proyecto__B/
    ├─ venv_2/              ← No se incluye en el repositorio
-   ├─ img/              
+   ├─ img/                 ← Carpeta para evidencias o capturas
    ├─ .gitignore
    ├─ proyecto_2.py
    ├─ proyecto_2.1.py
